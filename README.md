@@ -24,3 +24,4 @@ The script defines the whole process.
 3. Meaningful diagnostic messages
 4. Expendable
 5. Minimum software dependencies
+6. Zero setup (almost)
